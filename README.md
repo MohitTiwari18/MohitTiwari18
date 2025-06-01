@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohit Tiwari</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="coding" width="400" src="[https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcartoon-programmer&psig=AOvVaw0fu7QVC4MDEV1u_xncT8hE&ust=1748864766578000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMiS14yT0I0DFQAAAAAdAAAAABAE)">
+<img align="right" alt="coding" width="400" src="https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohittiwari18&label=Profile%20views&color=0e75b6&style=flat" alt="mohittiwari18" /> </p>
 
