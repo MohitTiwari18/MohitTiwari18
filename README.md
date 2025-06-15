@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mohittiwari.netlify.app/](https://mohittiwari.netlify.app/)
 
-- 💬 Ask me about **MERN Stack, MEAN Stack**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **mohittiwari9933@gmail.com**
 
